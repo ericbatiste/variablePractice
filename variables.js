@@ -10,3 +10,13 @@ var present = true
 var tired = false
 var hungry = true
 
+var name = "Daniel"
+var favFood = "Tacos"
+var guitar = "Telecaster"
+
+console.log(name);
+console.log(present);
+console.log(`I love my ${guitar}`);
+console.log(!hungry);
+console.log(`Just give ${name} his ${favFood} so he will shut up`);
+
