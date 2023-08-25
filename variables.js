@@ -5,3 +5,8 @@ var guitar = "Martin D18"
 var birthYear = 1989
 var zipCode = 80021
 var pi = 3.14159265359
+
+var present = true
+var tired = false
+var hungry = true
+
